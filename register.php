@@ -34,12 +34,12 @@
 
         <?php if (isset($_GET['score'])) { ?>
         <div style="width: 100%;text-align: center;color: green;font-size: 20px;">
-          Your Assessment: <?php echo $_GET['score']; ?>
-          You Are 
-          <?php  if ($_GET['score'] >= 1 && $_GET['score'] <= 49) {
-            echo "Normal";
+          Assessment results: <?php echo $_GET['score']; ?>
+          Your 
+          <?php  if ($_GET['score'] >= 0 && $_GET['score'] <= 49) {
+            echo "responses fall within the typical range—everything looks good! If you’d like to save your results and explore more features, consider creating a YouValue account to continue your wellness journey";
           }else if ($_GET['score'] >= 50 && $_GET['score'] <= 69) {
-              echo "Experiencing severe Anxiety";
+              echo "responses suggest that you may be dealing with intense anxiety, and you're not alone in this. Creating a YouValue account can help you track your progress, access support, and take meaningful steps toward feeling better.";
           } ?>
         </div> 
         <?php } ?>

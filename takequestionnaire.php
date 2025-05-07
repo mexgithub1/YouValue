@@ -48,7 +48,7 @@
         <?php if(isset($_GET['score'])): ?>
         <div style="width: 100%;text-align: center;color: green;font-size: 20px;">
             Your Assessment: <?php echo $_GET['score']; ?>
-            Depression is something you need help with, Send us your details so we can be in contact with you as soon as possible.
+            It seems like you might be going through a tough time. We're here for you—please share your details with us so we can reach out and support you.
           </div> 
           <br>
       <?php endif; ?>
@@ -86,7 +86,7 @@
                 </div>
             </form>
 
-            <h3>Total Points:</h3>
+            <h3>Assessment Results:</h3>
       </div>
     </div>
 

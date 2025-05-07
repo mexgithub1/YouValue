@@ -16,7 +16,7 @@ if (isset($_POST['takequiz'])) {
 
     echo "<script type='text/javascript'>alert('Successfully Take Questionnaire');</script>";
 
-    if ($score >= 1 && $score <= 49) {
+    if ($score >= 0 && $score <= 49) {
         header("Location: ../register.php?score=$score");
     }else if ($score >= 50 && $score <= 69) {
         header("Location: ../register.php?score=$score");
