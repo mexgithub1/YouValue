@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 07, 2025 at 12:50 PM
+-- Generation Time: May 07, 2025 at 08:39 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -40,66 +40,9 @@ CREATE TABLE `audio` (
 --
 
 INSERT INTO `audio` (`id`, `title`, `file`, `category`, `date_created`) VALUES
-(7, '10,000 Reasons - Matt Redman', '10,000 Reasons - Matt Redman.mp3', 'Normal', '2025-05-07 17:25:38'),
-(8, 'Coat Your Mind In Positive Thinking  Motivated', 'Coat Your Mind In Positive Thinking  Motivated.mp3', 'Normal', '2025-05-07 17:52:00'),
-(9, 'Give Thanks - Don Moen', 'Give Thanks - Don Moen.mp3', 'Normal', '2025-05-07 17:52:00'),
-(10, 'Goodness of God - Cyrose & Larah', 'Goodness of God - Cyrose & Larah.mp3', 'Normal', '2025-05-07 17:52:00'),
-(11, 'How To Be Happy & Remove Negative Thoughts in ANY Situation', 'How To Be Happy & Remove Negative Thoughts in ANY Situation.mp3', 'Normal', '2025-05-07 17:52:00'),
-(12, 'How to Become a More Positive Person', 'How to Become a More Positive Person.mp3', 'Normal', '2025-05-07 17:52:00'),
-(13, 'How to Find Inspiration and Hope in God\'s Word  - Pastor Mark Finley', 'How to Find Inspiration and Hope in God\'s Word  - Pastor Mark Finley.mp3', 'Normal', '2025-05-07 17:52:00'),
-(14, 'How to Get Motivated and Stay Motivated', 'How to Get Motivated and Stay Motivated.mp3', 'Normal', '2025-05-07 17:52:00'),
-(15, 'How to increase your happiness', 'How to increase your happiness.mp3', 'Normal', '2025-05-07 17:52:00'),
-(16, 'How to Know God\'s Will for Your Life - Mark Finley', 'How to Know God\'s Will for Your Life - Mark Finley.mp3', 'Normal', '2025-05-07 17:52:00'),
-(17, 'How To Stay Motivated - The Locus Rule', 'How To Stay Motivated - The Locus Rule.mp3', 'Normal', '2025-05-07 17:52:00'),
-(18, 'How To Stay Motivated & Break Bad Habits', 'How To Stay Motivated & Break Bad Habits.mp3', 'Normal', '2025-05-07 17:55:20'),
-(19, 'How To Stay Motivated In Whatever You Do  Andrew Huberman', 'How To Stay Motivated In Whatever You Do  Andrew Huberman.mp3', 'Normal', '2025-05-07 17:55:20'),
-(20, 'How to Stay Motivated, Using Psychology', 'How to Stay Motivated, Using Psychology.mp3', 'Normal', '2025-05-07 17:55:20'),
-(21, 'I Stand Amazed in the Presence (Acoustic)  Reawaken Hymns  The Trinity Acoustic Sessions', 'I Stand Amazed in the Presence (Acoustic)  Reawaken Hymns  The Trinity Acoustic Sessions.mp3', 'Normal', '2025-05-07 17:55:20'),
-(22, 'Lord, I Give You My Heart - Shane & Shane', 'Lord, I Give You My Heart - Shane & Shane.mp3', 'Normal', '2025-05-07 17:55:20'),
-(23, 'Neuroscientist_ THIS Is How You Stay Motivated FOREVER  Andrew Huberman', 'Neuroscientist_ THIS Is How You Stay Motivated FOREVER  Andrew Huberman.mp3', 'Normal', '2025-05-07 17:55:20'),
-(24, 'Want to be happy_ Be grateful  David Steindl-Rast', 'Want to be happy_ Be grateful  David Steindl-Rast.mp3', 'Normal', '2025-05-07 17:55:20'),
-(25, '5 CBT Exercises For Anxiety', '5 CBT Exercises For Anxiety.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(26, 'Because He Lives', 'Because He Lives.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(27, 'Boundaries, Anxiety, & Assertiveness  The Common Denominator', 'Boundaries, Anxiety, & Assertiveness  The Common Denominator.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(28, 'Dealing with anxiety can be as simple as...', 'Dealing with anxiety can be as simple as....mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(29, 'Dealing With Constant Anxiety  How To Quiet The Overwhelm', 'Dealing With Constant Anxiety  How To Quiet The Overwhelm.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(30, 'God\'s #1 Remedy For Depression and Anxiety  Pastor Gregory Dickow', 'God\'s #1 Remedy For Depression and Anxiety  Pastor Gregory Dickow.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(31, 'How To Cope With Anxiety – A Relaxation Technique', 'How To Cope With Anxiety – A Relaxation Technique.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(32, 'How to cope with anxiety  Olivia Remes  TEDxUHasselt', 'How to cope with anxiety  Olivia Remes  TEDxUHasselt.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(33, 'How to Deal With Anxiety - The Step-by-Step Guide', 'How to Deal With Anxiety - The Step-by-Step Guide.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(34, 'How To Defeat Anxiety  Pastor Steven Furtick', 'How To Defeat Anxiety  Pastor Steven Furtick.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(35, 'How to Trust God in Life’s Toughest Moments - Mark Finley', 'How to Trust God in Life’s Toughest Moments - Mark Finley.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(36, 'In Your Hands', 'In Your Hands.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(37, 'Low Confidence And Assertiveness', 'Low Confidence And Assertiveness.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(38, 'Matt Redman - Your Grace Finds Me', 'Matt Redman - Your Grace Finds Me.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(39, 'Overcome Fear with Faith - Pastor Mark Finley', 'Overcome Fear with Faith - Pastor Mark Finley.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(40, 'Sleep Problems', 'Sleep Problems.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(41, 'Thank You, Lord, For Your Blessings - Chris Else', 'Thank You, Lord, For Your Blessings - Chris Else.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(42, 'Why We Worry All the Time and How to Cope', 'Why We Worry All the Time and How to Cope.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(43, 'You Are My Refuge', 'You Are My Refuge.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(44, '3 Ways to Cope with Depression', '3 Ways to Cope with Depression.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(45, '4 Ways to Cope With Depression', '4 Ways to Cope With Depression.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(46, '5 ONE-MINUTE Habits to Beat DEPRESSION', '5 ONE-MINUTE Habits to Beat DEPRESSION.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(47, 'Breathe  What a Friend I\'ve Found Hillsong Worship', 'Breathe  What a Friend I\'ve Found Hillsong Worship.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(48, 'Broken Vessels (Amazing Grace)', 'Broken Vessels (Amazing Grace).mp3', 'Depressed', '2025-05-07 18:21:31'),
-(49, 'By His Wound We Are Healed', 'By His Wound We Are Healed.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(50, 'Coping Skills to Manage Depression and Anxiety', 'Coping Skills to Manage Depression and Anxiety.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(51, 'Coping Strategies to Combat Anxiety and Depression - Valley Health Behavioral Health Services', 'Coping Strategies to Combat Anxiety and Depression - Valley Health Behavioral Health Services.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(52, 'Coping With Depression and Anxiety  5 Healthy Ways to Cope (Therapist Explained)', 'Coping With Depression and Anxiety  5 Healthy Ways to Cope (Therapist Explained).mp3', 'Depressed', '2025-05-07 18:21:31'),
-(53, 'Coping with Depression and Anxiety  Dominique Larue  TEDxColumbusWomen', 'Coping with Depression and Anxiety  Dominique Larue  TEDxColumbusWomen.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(54, 'Fight Depression and Burnout in 2 Minutes a Day_ 3 Good Things Activity', 'Fight Depression and Burnout in 2 Minutes a Day_ 3 Good Things Activity.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(55, 'God\'s #1 Remedy For Depression and Anxiety  Pastor Gregory Dickow', 'God\'s #1 Remedy For Depression and Anxiety  Pastor Gregory Dickow.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(56, 'How a Christian Conquers Life\'s Giant Challenges - Mark Finley', 'How a Christian Conquers Life\'s Giant Challenges - Mark Finley.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(57, 'How to Cope With Depression Without Medication', 'How to Cope With Depression Without Medication.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(58, 'How To Cope With Depression', 'How To Cope With Depression.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(59, 'How to cope with loneliness #shorts #tedx', 'How to cope with loneliness #shorts #tedx.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(60, 'I See Love Upon the Cross', 'I See Love Upon the Cross.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(61, 'In Christ Alone', 'In Christ Alone.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(62, 'It Is Well With My Soul - Audrey Assad', 'It Is Well With My Soul - Audrey Assad.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(63, 'Learning to Live with Clinical Depression Angelica Galluzzo TEDxWesternU', 'Learning to Live with Clinical Depression Angelica Galluzzo TEDxWesternU.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(64, 'Self-Help For Low Mood And Depression', 'Self-Help For Low Mood And Depression.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(65, 'Unhealthful Thinking', 'Unhealthful Thinking.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(66, 'You Heal My Pain', 'You Heal My Pain.mp3', 'Depressed', '2025-05-07 18:21:31');
+(1, 'Accepting Jesus in our life will make us Happy', 'Icona Pop - All Night (Lyrics).mp3', 'Normal', '2025-03-07 15:25:27'),
+(3, 'You need to let go of your Anxiety', 'Jibbs - Chain Hang Low (Official Music Video).mp3', 'Anxiety', '2025-03-07 15:39:57'),
+(6, 'What does the bible says about depression', 'gangsta\'s paradise (instrumental) [edit audio].mp3', 'Depressed', '2025-03-21 21:51:58');
 
 -- --------------------------------------------------------
 
@@ -399,11 +342,11 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `img`, `firstname`, `lastname`, `middlename`, `phone_number`, `age`, `gender`, `email`, `password`, `passwordtxt`, `contact`, `address`, `code`, `type`, `datetake`, `totaltake`) VALUES
-(1, 'Barbecued-snags.jpg', 'admin', 'admin', '', '', '', '', 'admin@gmail.com', '$2y$10$Y8h1jxlcFHSxFtyjvXB5z.qtIhxWAYqdb5zfHQsiNYAgRci7tpkCu', '123', '0', '', 22198, 2, '2025-04-30', 0),
-(105, 'blank_profile.png', 'student1', 'student1', 'ttest', '9878676675', '33', 'Male', 's1@gmail.com', '$2y$10$Y8h1jxlcFHSxFtyjvXB5z.qtIhxWAYqdb5zfHQsiNYAgRci7tpkCu', '123', '', '', 0, 0, '2025-04-30', 1),
-(106, 'blank_profile.png', 'student2', 'student2', 'sorar', '', '', '', 's2@gmail.com', '$2y$10$Y8h1jxlcFHSxFtyjvXB5z.qtIhxWAYqdb5zfHQsiNYAgRci7tpkCu', '123', '', '', 0, 0, '2025-04-30', 0),
-(108, 'blank_profile.png', 'Guidance', 'Faculty', '', '', '', '', 'f1@gmail.com', '$2y$10$y86IYywbdcKhqW7q0SLLV.rNavSZMgN/.defMImpPpZYEYfJk/TKq', '123', '', '', 0, 1, '2025-04-30', 0),
-(110, '', 'student3', 'student3', 'sdfsdf', '09999999', '34', 'Male', 's3@gmail.com', '$2y$10$N3gMznlDluBoCQnGHX.xIepemS8AQwAkEg4Gwg1V26NMYrP.xDWa6', '123', '', '', 0, 0, '2025-04-30', 0);
+(1, 'Barbecued-snags.jpg', 'godeg test', 'kola', '', '', '', '', 'admin@admin.com', '$2y$10$PI0nCdoRms.MjY7epPZVqu67pbH0cyACqwnl3ZGx9qox0R23no0gG', 'admin', '0', '', 22198, 2, '2025-04-30', 0),
+(105, 'blank_profile.png', 'Max', 'Marquez', 'ttest', '9878676675', '33', 'Male', 'Maxmarquez123@aup.edu.ph', '$2y$10$IeJ4y2.eNwa4p3UMZu3blOOodVKFxz2zeHfrBv0goCavl.jFm4mzW', '111', '', '', 0, 0, '2025-04-30', 1),
+(106, 'blank_profile.png', 'sorar', 'sorar', 'sorar', '', '', '', 'sorar384@gmail.com', '$2y$10$Y8h1jxlcFHSxFtyjvXB5z.qtIhxWAYqdb5zfHQsiNYAgRci7tpkCu', '123', '', '', 0, 0, '2025-04-30', 0),
+(108, 'blank_profile.png', 'Guidance', 'Faculty', '', '', '', '', 'faculty2@email.com', '$2y$10$y86IYywbdcKhqW7q0SLLV.rNavSZMgN/.defMImpPpZYEYfJk/TKq', '123', '', '', 0, 1, '2025-04-30', 0),
+(110, '', 'test', 'sdfdsf', 'sdfsdf', '09999999', '34', 'Male', 'test@gmail.com', '$2y$10$N3gMznlDluBoCQnGHX.xIepemS8AQwAkEg4Gwg1V26NMYrP.xDWa6', '123', '', '', 0, 0, '2025-04-30', 0);
 
 -- --------------------------------------------------------
 
@@ -671,7 +614,7 @@ ALTER TABLE `video`
 -- AUTO_INCREMENT for table `audio`
 --
 ALTER TABLE `audio`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=67;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
 --
 -- AUTO_INCREMENT for table `bookmark_audio`
