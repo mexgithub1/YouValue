@@ -15,17 +15,17 @@
       <?php endif; ?>
 
       <?php if($_SESSION['type'] == 0 || $_SESSION['type'] == 2): ?>
-        <li><a href="audio.php"><i class="fas fa-volume-up"></i> <span>Audio</span></a></li>
-        <li><a href="video.php"><i class="fas fa-video"></i> <span>Video</span></a></li>
-        <li><a href="readables.php"><i class="fas fa-file"></i> <span>Readables</span></a></li>
+        <li><a href="audio.php"><i class="fas fa-volume-up"></i> <span>Wellbeing Audio Hub</span></a></li>
+        <li><a href="video.php"><i class="fas fa-video"></i> <span>Mindful Watch</span></a></li>
+        <li><a href="readables.php"><i class="fas fa-file"></i> <span>Supportive Reads</span></a></li>
       <?php endif; ?>
 
       <?php if($_SESSION['type'] == 0): ?>
-        <li><a href="calendar.php"><i class="far fa-calendar"></i> <span>Calendar</span></a></li>
+        <li><a href="calendar.php"><i class="far fa-calendar"></i> <span>My Wellness Calendar</span></a></li>
       <?php endif; ?>
 
       <?php if($_SESSION['type'] == 1 || $_SESSION['type'] == 2): ?>
-        <li><a href="students.php"><i class="fas fa-users"></i> <span>Take Students</span></a></li>
+        <li><a href="students.php"><i class="fas fa-users"></i> <span>Student List</span></a></li>
       <?php endif; ?>
 
       <?php if($_SESSION['type'] == 1): ?>
@@ -38,7 +38,7 @@
          $stmt2 = $this->conn()->prepare($sql2);
          $stmt2->execute([$_SESSION['id'],69]);
          if ($stmt2->rowCount() > 0) { ?>
-          <li><a href="messages.php"><i class="fas fa-sms"></i> <span>Messages</span></a></li>
+          <li><a href="messages.php"><i class="fas fa-sms"></i> <span>Talk to Us!</span></a></li>
         <?php } ?>
       <?php endif; ?>
       
