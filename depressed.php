@@ -32,8 +32,8 @@
         </div> 
         <br>
         <div style="width: 100%;text-align: center;color: green;font-size: 20px;">
-          You Got Score: <?php echo $_GET['score']; ?>
-          You Are Depressed
+          Your Assessment: <?php echo $_GET['score']; ?>
+          It seems like you might be going through a tough time. We're here for you—please share your details with us so we can reach out and support you.
         </div> 
       </div>
     </div>
