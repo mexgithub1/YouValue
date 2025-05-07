@@ -5,11 +5,11 @@
         <div class="card bg-transparent border-0">
           <div class="card-body">
             <h5 class="mb-4">ABOUT</h5>
-            <p>Harvesting Success is an online website for buying and selling goods. Harvesting Success is at your service and happy to serve you for every transaction. If you have any concerns you can contact us through our gmail account.</p>
-            <p class="mt-4"><i class="fas fa-map-marker-alt"></i> Addresss: Mabini, Pangasinan City, Philippines</p>
-            <p><i class="fas fa-envelope"></i> Email: harvestingsuccess@gmail.com</p>
-            <p><i class="fab fa-facebook-square"></i> Facebook: Harvesting Success</p>
-            <p>Harvesting Success <i class="fas fa-copyright"></i> 2024 by BSIT-4B Students</p>
+            <p>YouValue : Everything to remind you of your Value</p>
+            <p class="mt-4"><i class="fas fa-map-marker-alt"></i> Addresss: Puting Kahoy, Silang, Cavite, Philippines</p>
+            <p><i class="fas fa-envelope"></i> Email: 2040359@aup.edu.ph</p>
+            <p><i class="fab fa-facebook-square"></i> No social media as of rn</p>
+            <p>Harvesting Success <i class="fas fa-copyright"></i> 2025 by BSIT YouValue Group</p>
 
           </div>
         </div>
@@ -35,10 +35,10 @@
                     <h5 class="mb-4">LINKS</h5>
                     <ul>
                       <li class="mt-3">Home</li>
-                      <li class="mt-3">Products</li>
+                      <li class="mt-3">Readables</li>
                       <li class="mt-3">Contact</li>
-                      <li class="mt-3">Orders</li>
-                      <li class="mt-3">Refunds</li>
+                      <li class="mt-3">Sources</li>
+                      <li class="mt-3">About</li>
                     </ul>
                   </div>
                 </div>

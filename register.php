@@ -34,12 +34,12 @@
 
         <?php if (isset($_GET['score'])) { ?>
         <div style="width: 100%;text-align: center;color: green;font-size: 20px;">
-          You Got Score: <?php echo $_GET['score']; ?>
+          Your Assessment: <?php echo $_GET['score']; ?>
           You Are 
           <?php  if ($_GET['score'] >= 1 && $_GET['score'] <= 49) {
             echo "Normal";
           }else if ($_GET['score'] >= 50 && $_GET['score'] <= 69) {
-              echo "Anxiety";
+              echo "Experiencing severe Anxiety";
           } ?>
         </div> 
         <?php } ?>

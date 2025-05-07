@@ -6,4 +6,4 @@
 <link rel="stylesheet" type="text/css" href="dist/css/style.css">
 <link rel="stylesheet" type="text/css" href="dist/css/slick.min.css">
 <link rel="stylesheet" type="text/css" href="dist/css/slick-theme.min.css">
-<title>De La Salle University DASMARINAS</title>
+<title>Adventist University of the Philippines</title>

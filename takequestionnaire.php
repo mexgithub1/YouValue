@@ -47,8 +47,8 @@
 
         <?php if(isset($_GET['score'])): ?>
         <div style="width: 100%;text-align: center;color: green;font-size: 20px;">
-            You Got Score: <?php echo $_GET['score']; ?>
-            You Are Depressed
+            Your Assessment: <?php echo $_GET['score']; ?>
+            Depression is something you need help with, Send us your details so we can be in contact with you as soon as possible.
           </div> 
           <br>
       <?php endif; ?>
