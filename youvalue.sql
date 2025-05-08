@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 08, 2025 at 05:41 AM
+-- Generation Time: May 07, 2025 at 08:39 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -40,66 +40,9 @@ CREATE TABLE `audio` (
 --
 
 INSERT INTO `audio` (`id`, `title`, `file`, `category`, `date_created`) VALUES
-(7, '10,000 Reasons - Matt Redman', '10,000 Reasons - Matt Redman.mp3', 'Normal', '2025-05-07 17:25:38'),
-(8, 'Coat Your Mind In Positive Thinking  Motivated', 'Coat Your Mind In Positive Thinking  Motivated.mp3', 'Normal', '2025-05-07 17:52:00'),
-(9, 'Give Thanks - Don Moen', 'Give Thanks - Don Moen.mp3', 'Normal', '2025-05-07 17:52:00'),
-(10, 'Goodness of God - Cyrose & Larah', 'Goodness of God - Cyrose & Larah.mp3', 'Normal', '2025-05-07 17:52:00'),
-(11, 'How To Be Happy & Remove Negative Thoughts in ANY Situation', 'How To Be Happy & Remove Negative Thoughts in ANY Situation.mp3', 'Normal', '2025-05-07 17:52:00'),
-(12, 'How to Become a More Positive Person', 'How to Become a More Positive Person.mp3', 'Normal', '2025-05-07 17:52:00'),
-(13, 'How to Find Inspiration and Hope in God\'s Word  - Pastor Mark Finley', 'How to Find Inspiration and Hope in God\'s Word  - Pastor Mark Finley.mp3', 'Normal', '2025-05-07 17:52:00'),
-(14, 'How to Get Motivated and Stay Motivated', 'How to Get Motivated and Stay Motivated.mp3', 'Normal', '2025-05-07 17:52:00'),
-(15, 'How to increase your happiness', 'How to increase your happiness.mp3', 'Normal', '2025-05-07 17:52:00'),
-(16, 'How to Know God\'s Will for Your Life - Mark Finley', 'How to Know God\'s Will for Your Life - Mark Finley.mp3', 'Normal', '2025-05-07 17:52:00'),
-(17, 'How To Stay Motivated - The Locus Rule', 'How To Stay Motivated - The Locus Rule.mp3', 'Normal', '2025-05-07 17:52:00'),
-(18, 'How To Stay Motivated & Break Bad Habits', 'How To Stay Motivated & Break Bad Habits.mp3', 'Normal', '2025-05-07 17:55:20'),
-(19, 'How To Stay Motivated In Whatever You Do  Andrew Huberman', 'How To Stay Motivated In Whatever You Do  Andrew Huberman.mp3', 'Normal', '2025-05-07 17:55:20'),
-(20, 'How to Stay Motivated, Using Psychology', 'How to Stay Motivated, Using Psychology.mp3', 'Normal', '2025-05-07 17:55:20'),
-(21, 'I Stand Amazed in the Presence (Acoustic)  Reawaken Hymns  The Trinity Acoustic Sessions', 'I Stand Amazed in the Presence (Acoustic)  Reawaken Hymns  The Trinity Acoustic Sessions.mp3', 'Normal', '2025-05-07 17:55:20'),
-(22, 'Lord, I Give You My Heart - Shane & Shane', 'Lord, I Give You My Heart - Shane & Shane.mp3', 'Normal', '2025-05-07 17:55:20'),
-(23, 'Neuroscientist_ THIS Is How You Stay Motivated FOREVER  Andrew Huberman', 'Neuroscientist_ THIS Is How You Stay Motivated FOREVER  Andrew Huberman.mp3', 'Normal', '2025-05-07 17:55:20'),
-(24, 'Want to be happy_ Be grateful  David Steindl-Rast', 'Want to be happy_ Be grateful  David Steindl-Rast.mp3', 'Normal', '2025-05-07 17:55:20'),
-(25, '5 CBT Exercises For Anxiety', '5 CBT Exercises For Anxiety.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(26, 'Because He Lives', 'Because He Lives.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(27, 'Boundaries, Anxiety, & Assertiveness  The Common Denominator', 'Boundaries, Anxiety, & Assertiveness  The Common Denominator.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(28, 'Dealing with anxiety can be as simple as...', 'Dealing with anxiety can be as simple as....mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(29, 'Dealing With Constant Anxiety  How To Quiet The Overwhelm', 'Dealing With Constant Anxiety  How To Quiet The Overwhelm.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(30, 'God\'s #1 Remedy For Depression and Anxiety  Pastor Gregory Dickow', 'God\'s #1 Remedy For Depression and Anxiety  Pastor Gregory Dickow.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(31, 'How To Cope With Anxiety – A Relaxation Technique', 'How To Cope With Anxiety – A Relaxation Technique.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(32, 'How to cope with anxiety  Olivia Remes  TEDxUHasselt', 'How to cope with anxiety  Olivia Remes  TEDxUHasselt.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(33, 'How to Deal With Anxiety - The Step-by-Step Guide', 'How to Deal With Anxiety - The Step-by-Step Guide.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(34, 'How To Defeat Anxiety  Pastor Steven Furtick', 'How To Defeat Anxiety  Pastor Steven Furtick.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(35, 'How to Trust God in Life’s Toughest Moments - Mark Finley', 'How to Trust God in Life’s Toughest Moments - Mark Finley.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(36, 'In Your Hands', 'In Your Hands.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(37, 'Low Confidence And Assertiveness', 'Low Confidence And Assertiveness.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(38, 'Matt Redman - Your Grace Finds Me', 'Matt Redman - Your Grace Finds Me.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(39, 'Overcome Fear with Faith - Pastor Mark Finley', 'Overcome Fear with Faith - Pastor Mark Finley.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(40, 'Sleep Problems', 'Sleep Problems.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(41, 'Thank You, Lord, For Your Blessings - Chris Else', 'Thank You, Lord, For Your Blessings - Chris Else.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(42, 'Why We Worry All the Time and How to Cope', 'Why We Worry All the Time and How to Cope.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(43, 'You Are My Refuge', 'You Are My Refuge.mp3', 'Anxiety', '2025-05-07 18:13:55'),
-(44, '3 Ways to Cope with Depression', '3 Ways to Cope with Depression.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(45, '4 Ways to Cope With Depression', '4 Ways to Cope With Depression.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(46, '5 ONE-MINUTE Habits to Beat DEPRESSION', '5 ONE-MINUTE Habits to Beat DEPRESSION.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(47, 'Breathe  What a Friend I\'ve Found Hillsong Worship', 'Breathe  What a Friend I\'ve Found Hillsong Worship.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(48, 'Broken Vessels (Amazing Grace)', 'Broken Vessels (Amazing Grace).mp3', 'Depressed', '2025-05-07 18:21:31'),
-(49, 'By His Wound We Are Healed', 'By His Wound We Are Healed.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(50, 'Coping Skills to Manage Depression and Anxiety', 'Coping Skills to Manage Depression and Anxiety.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(51, 'Coping Strategies to Combat Anxiety and Depression - Valley Health Behavioral Health Services', 'Coping Strategies to Combat Anxiety and Depression - Valley Health Behavioral Health Services.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(52, 'Coping With Depression and Anxiety  5 Healthy Ways to Cope (Therapist Explained)', 'Coping With Depression and Anxiety  5 Healthy Ways to Cope (Therapist Explained).mp3', 'Depressed', '2025-05-07 18:21:31'),
-(53, 'Coping with Depression and Anxiety  Dominique Larue  TEDxColumbusWomen', 'Coping with Depression and Anxiety  Dominique Larue  TEDxColumbusWomen.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(54, 'Fight Depression and Burnout in 2 Minutes a Day_ 3 Good Things Activity', 'Fight Depression and Burnout in 2 Minutes a Day_ 3 Good Things Activity.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(55, 'God\'s #1 Remedy For Depression and Anxiety  Pastor Gregory Dickow', 'God\'s #1 Remedy For Depression and Anxiety  Pastor Gregory Dickow.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(56, 'How a Christian Conquers Life\'s Giant Challenges - Mark Finley', 'How a Christian Conquers Life\'s Giant Challenges - Mark Finley.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(57, 'How to Cope With Depression Without Medication', 'How to Cope With Depression Without Medication.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(58, 'How To Cope With Depression', 'How To Cope With Depression.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(59, 'How to cope with loneliness #shorts #tedx', 'How to cope with loneliness #shorts #tedx.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(60, 'I See Love Upon the Cross', 'I See Love Upon the Cross.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(61, 'In Christ Alone', 'In Christ Alone.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(62, 'It Is Well With My Soul - Audrey Assad', 'It Is Well With My Soul - Audrey Assad.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(63, 'Learning to Live with Clinical Depression Angelica Galluzzo TEDxWesternU', 'Learning to Live with Clinical Depression Angelica Galluzzo TEDxWesternU.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(64, 'Self-Help For Low Mood And Depression', 'Self-Help For Low Mood And Depression.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(65, 'Unhealthful Thinking', 'Unhealthful Thinking.mp3', 'Depressed', '2025-05-07 18:21:31'),
-(66, 'You Heal My Pain', 'You Heal My Pain.mp3', 'Depressed', '2025-05-07 18:21:31');
+(1, 'Accepting Jesus in our life will make us Happy', 'Icona Pop - All Night (Lyrics).mp3', 'Normal', '2025-03-07 15:25:27'),
+(3, 'You need to let go of your Anxiety', 'Jibbs - Chain Hang Low (Official Music Video).mp3', 'Anxiety', '2025-03-07 15:39:57'),
+(6, 'What does the bible says about depression', 'gangsta\'s paradise (instrumental) [edit audio].mp3', 'Depressed', '2025-03-21 21:51:58');
 
 -- --------------------------------------------------------
 
@@ -256,7 +199,7 @@ CREATE TABLE `questionnaires` (
 
 INSERT INTO `questionnaires` (`id`, `questions`, `choice1`, `choice2`, `choice3`, `choice4`, `answers`) VALUES
 (21, 'Have you felt sad or down most of the time in the past few days?', 'Not at all', 'Occasionally', 'Sometimes', 'Almost every day', 'Almost every day'),
-(22, 'Have you had trouble sleeping or sleeping too much recently?', 'Almost every night', 'Some nights', 'Not at all', 'Rarely', 'Almost every night'),
+(22, 'Have you had trouble sleeping or sleeping too much recently?', 'Almost every night', 'Some nights', 'Not at all', 'Rarely', 'Nearly every day'),
 (23, 'Have you had difficulty enjoying things you used to find pleasurable?', 'Not at all', 'Some days', 'Rarely', 'Almost every day', 'Almost every day'),
 (24, 'Have you been feeling nervous, anxious, or on edge?', 'Rarely', 'Occasionally', 'Never', 'All the times', 'All the times'),
 (25, 'Have you been feeling tired or low on energy even after resting?', 'Not at all', 'Almost everyday', 'Sometimes', 'Rarely', 'Almost everyday'),
@@ -285,109 +228,9 @@ CREATE TABLE `readables` (
 --
 
 INSERT INTO `readables` (`id`, `title`, `file`, `category`, `date_created`) VALUES
-(5, '100 Days to Brave for Kids - Annie F Downs', '100_Days_to_Brave_for_Kids_-_Annie_F_Downs.pdf', 'Normal', '2025-05-07 15:23:14'),
-(6, '177 Mental Toughness Secrets of the World Class The Thought Processes, Habits and Philosophies of the Great Ones, 3rd Edition', '177MEN~1.PDF', 'Normal', '2025-05-07 15:27:15'),
-(7, '10-Minute Mindfulness 71 Habits for Living in the Present Moment', '10-Minute Mindfulness_ 71 Habits for Living in the Present Moment.pdf', 'Normal', '2025-05-07 15:28:12'),
-(8, 'Dont Let Your Emotions Run Your Life for Teens', 'Dont Let Your Emotions Run Your Life for Teens.pdf', 'Normal', '2025-05-07 15:31:03'),
-(9, 'Enjoying Intimacy With God', 'Enjoying Intimacy With God.pdf', 'Normal', '2025-05-07 15:31:23'),
-(10, 'Healthy Minds, Healthy Lives', 'Healthy Minds, Healthy Lives.pdf', 'Normal', '2025-05-07 15:31:42'),
-(11, '7 Habits of Highly Effective College Students', '7 Habits of Highly Effective College Students.pdf', 'Normal', '2025-05-07 15:32:08'),
-(12, 'Habits That Stick The Ultimate Guide To Building Powerful Habits That Stick Once and For All', 'Habits That Stick The Ultimate Guide To Building Powerful Habits That Stick Once and For All.pdf', 'Normal', '2025-05-07 15:32:33'),
-(13, 'NIV Student Bible', 'NIV Student Bible.pdf', 'Normal', '2025-05-07 15:33:11'),
-(14, 'Live Lean Success quotes', 'Live Lean Success quotes.pdf', 'Normal', '2025-05-07 15:34:52'),
-(15, 'Open to the Spirit God in Us, God with Us, God Transforming Us', 'Open to the Spirit_ God in Us, God with Us, God Transforming Us.pdf', 'Normal', '2025-05-07 15:35:25'),
-(16, 'Self Improvement – The Top 101 Experts that Help Us Improve Our Lives', 'Self Improvement – The Top 101 Experts that Help Us Improve Our Lives.pdf', 'Normal', '2025-05-07 15:35:46'),
-(17, 'Mini Habits Smaller Habits, Bigger Results', 'Mini Habits_ Smaller Habits, Bigger Results.pdf', 'Normal', '2025-05-07 15:36:14'),
-(18, 'Start Where You Are A Guide to Compassionate Living', 'Start Where You Are_ A Guide to Compassionate Living.pdf', 'Normal', '2025-05-07 15:36:41'),
-(19, 'Positive Thinking 50 Positive Habits to Transform you Life Positive Thinking, Positive Thinking Techniques', 'Positive Thinking 50 Positive Habits to Transform you Life Positive Thinking, Positive Thinking Techniques.pdf', 'Normal', '2025-05-07 15:38:41'),
-(20, 'Take Control-A guide to Personal Development by the Power of Habits', 'Take Control-A guide to Personal Development by the Power of Habits.pdf', 'Normal', '2025-05-07 15:39:08'),
-(21, 'The Expectation Effect', 'The Expectation Effect.pdf', 'Normal', '2025-05-07 15:39:27'),
-(22, 'The Holy Bible New International Version (NIV)', 'The Holy Bible New International Version (NIV).pdf', 'Normal', '2025-05-07 15:47:08'),
-(23, 'The Self-Esteem Workbook', 'The Self-Esteem Workbook.pdf', 'Normal', '2025-05-07 15:47:43'),
-(24, 'The Myth of Self-Esteem How Rational Emotive Behavior Therapy Can Change Your Life Forever', 'The Myth of Self-Esteem_ How Rational Emotive Behavior Therapy Can Change Your Life Forever.pdf', 'Normal', '2025-05-07 15:48:11'),
-(25, 'The Transformational Life-How to be Transformed by God to Transform the World', 'The Transformational Life_ How to be Transformed by God to Transform the World.pdf', 'Normal', '2025-05-07 15:48:42'),
-(26, 'Three Mistakes of My Life by Chetan Bhagat', 'Three Mistakes of My Life by Chetan Bhagat.pdf', 'Normal', '2025-05-07 15:49:05'),
-(27, 'Transform Your Habits, 2nd Edition - James Clear', 'Transform Your Habits, 2nd Edition - James Clear.pdf', 'Normal', '2025-05-07 15:49:25'),
-(28, 'The faith I live by', 'The faith I live by.pdf', 'Normal', '2025-05-07 15:49:47'),
-(29, 'You Can Understand The Bible A Practical And Illuminating Guide To Each Book In The Bible', 'You Can Understand The Bible_ A Practical And Illuminating Guide To Each Book In The Bible.pdf', 'Normal', '2025-05-07 15:50:17'),
-(30, 'You Are Not Your Brain The 4-Step Solution for Changing Bad Habits', 'You Are Not Your Brain The 4-Step Solution for Changing Bad Habits.pdf', 'Normal', '2025-05-07 15:51:02'),
-(31, 'Write Yourself - Creative Writing and Personal Development (Writing for Therapy Or Personal)', 'Write Yourself_ Creative Writing and Personal Development (Writing for Therapy Or Personal.pdf', 'Normal', '2025-05-07 15:52:13'),
-(32, 'Wisdom from Women in the Bible Giants of the Faith Speak into Our Lives', 'Wisdom from Women in the Bible_ Giants of the Faith Speak into Our Lives.pdf', 'Normal', '2025-05-07 15:52:43'),
-(33, 'When God Speaks to My Heart A Daybook of Personal Moments with God', 'When God Speaks to My Heart_ A Daybook of Personal Moments with God.pdf', 'Normal', '2025-05-07 15:53:12'),
-(34, 'THE SEVEN HABITS OF HIGHLY EFFECTIVE PEOPLE', 'THE SEVEN HABITS OF HIGHLY EFFECTIVE PEOPLE.pdf', 'Normal', '2025-05-07 15:53:33'),
-(35, 'The Obstacle Is the Way The Timeless Art of Turning Trials into Triumph', 'The Obstacle Is the Way_ The Timeless Art of Turning Trials into Triumph.pdf', 'Normal', '2025-05-07 15:54:05'),
-(36, 'The 5 Second Rule Transform your Life, Work, and Confidence with Everyday Courage', 'The 5 Second Rule_ Transform your Life, Work, and Confidence with Everyday Courage.pdf', 'Normal', '2025-05-07 15:54:42'),
-(37, 'Superhuman by Habit A Guide to Becoming the Best Possible Version of Yourself, One Tiny Habit', 'Superhuman by Habit A Guide to Becoming the Best Possible Version of Yourself, One Tiny Habit.pdf', 'Normal', '2025-05-07 15:55:08'),
-(38, 'Obsessive-Compulsive Disorder The Ultimate Teen Guide (It Happened to Me (the Ultimate Teen Guide)', 'Obsessive-Compulsive Disorder_ The Ultimate Teen Guide (It Happened to Me (the Ultimate Teen Guide).pdf', 'Normal', '2025-05-07 15:55:47'),
-(39, 'MASTER YOUR DESTINY', 'MASTER YOUR DESTINY.pdf', 'Normal', '2025-05-07 15:56:18'),
-(40, 'Inspiration to Live Your Magic - 75 Inspiring Biographies', 'Inspiration to Live Your Magic_ 75 Inspiring Biographies.pdf', 'Normal', '2025-05-07 15:56:50'),
-(41, 'Healthful Living - Broken Adventist Ministry', 'Healthful Living - Broken Adventist Ministry.pdf', 'Normal', '2025-05-07 15:57:13'),
-(42, 'Desired by God - discover a strong, soul-satisfying - Moody, Van, 1975', 'Desired by God - discover a strong, soul-satisfying - Moody, Van, 1975.pdf', 'Normal', '2025-05-07 15:58:16'),
-(43, 'Believing God', 'Believing God.pdf', 'Normal', '2025-05-07 15:58:37'),
-(44, 'A$$h073-No-More - Improving the Attitude', 'A$$h073-No-More.pdf', 'Normal', '2025-05-07 15:59:36'),
-(45, '30 Days to Change Your Habits, Change Your Life - A Couple of Simple Steps Every Day to Create the Life You Want', '30 Days_ Change Your Habits, Change Your Life_ A Couple of Simple Steps Every Day to Create the Life You Want.pdf', 'Normal', '2025-05-07 16:00:23'),
-(46, 'CBT or Social Anxiety - Stefan G Hofmann PhD', 'CBT or Social Anxiety - Stefan G Hofmann PhD.pdf', 'Normal', '2025-05-07 16:03:28'),
-(47, 'Transforming Anxiety The HeartMath Solution for Overcoming Fear and Worry and Creating Serenity', 'Transforming Anxiety The HeartMath Solution for Overcoming Fear and Worry and Creating Serenity.pdf', 'Normal', '2025-05-07 16:04:02'),
-(48, 'The FUD Factor - Brendan P Keegan', 'The FUD Factor - Brendan P Keegan.pdf', 'Normal', '2025-05-07 16:04:23'),
-(49, 'Overcoming Fear - Joyner', 'Overcoming Fear - Joyner.pdf', 'Normal', '2025-05-07 16:04:42'),
-(50, 'Overcoming Fear - Edith Morris', 'Overcoming Fear - Edith Morris.pdf', 'Normal', '2025-05-07 16:05:01'),
-(51, 'Its not about the horse - Wyatt webb', 'Its not about the horse - Wyatt webb.pdf', 'Normal', '2025-05-07 16:05:23'),
-(52, 'InnerFitness - Nordine Zouareg', 'InnerFitness - Nordine Zouareg.pdf', 'Normal', '2025-05-07 16:05:43'),
-(53, 'Dream Big - Napoleon Hill', 'Dream Big - Napoleon Hill.pdf', 'Normal', '2025-05-07 16:06:03'),
-(54, 'Courage - Debbie Ford', 'Courage - Debbie Ford.pdf', 'Normal', '2025-05-07 16:06:18'),
-(55, 'You Are Enough - Panache Desai', 'You Are Enough - Panache Desai.pdf', 'Anxiety', '2025-05-07 16:19:43'),
-(56, 'You Are Enough - Cassie Mendoza Jones', 'You Are Enough - Cassie Mendoza Jones.pdf', 'Anxiety', '2025-05-07 16:19:58'),
-(57, 'Worthy How to Believe You Are Enough - Jamie Kern Lima', 'Worthy How to Believe You Are Enough - Jamie Kern Lima.pdf', 'Anxiety', '2025-05-07 16:20:13'),
-(58, 'Wholesome Fear - Transforming Your Anxiety About Impermanence & Death', 'Wholesome Fear - Transforming Your Anxiety About Impermanence & Death.pdf', 'Anxiety', '2025-05-07 16:20:47'),
-(59, 'What You Must Think of Me - Emily Ford', 'What You Must Think of Me - Emily Ford.pdf', 'Anxiety', '2025-05-07 16:20:59'),
-(60, 'We’re All Mad Here The No-Nonsense Guide to Living with Social Anxiety', 'We’re All Mad Here_ The No-Nonsense Guide to Living with Social Anxiety.pdf', 'Anxiety', '2025-05-07 16:21:17'),
-(61, 'Time Anxiety - Chris Guillebeau', 'Time Anxiety - Chris Guillebeau.pdf', 'Anxiety', '2025-05-07 16:21:35'),
-(62, 'This Is What Anxiety Looks Like - David A Clark PhD', 'This Is What Anxiety Looks Like - David A Clark PhD.pdf', 'Anxiety', '2025-05-07 16:21:48'),
-(63, 'The Worry Trick - How Your Brain Tricks You into Expecting the Worst and What You Can Do About It', 'The Worry Trick - How Your Brain Tricks You into Expecting the Worst and What You Can Do About It.pdf', 'Anxiety', '2025-05-07 16:24:57'),
-(64, 'The Social Anxiety Switch How to Flip It Off - How to Overcome Social Anxiety Once and For All', 'The Social Anxiety Switch How to Flip It Off - How to Overcome Social Anxiety Once and For All.pdf', 'Anxiety', '2025-05-07 16:25:08'),
-(65, 'The Shyness and Social Anxiety System', 'The Shyness and Social Anxiety System.pdf', 'Anxiety', '2025-05-07 16:25:23'),
-(66, 'The Perfectionism Workbook for Teens - Ann Marie Dobosz', 'The Perfectionism Workbook for Teens - Ann Marie Dobosz.pdf', 'Anxiety', '2025-05-07 16:25:56'),
-(67, 'The Mindfulness and Acceptance Workbook for Anxiety - A Guide to Breaking Free from Anxiety', 'The Mindfulness and Acceptance Workbook for Anxiety - A Guide to Breaking Free from Anxiety.pdf', 'Anxiety', '2025-05-07 16:26:11'),
-(68, 'The Little Book of Calm - Tame Your Anxieties, Face Your Fears, and Live Free', 'The Little Book of Calm - Tame Your Anxieties, Face Your Fears, and Live Free.pdf', 'Anxiety', '2025-05-07 16:26:26'),
-(69, 'The Dialectical Behavior Therapy Skills Workbook for Anxiety', 'The Dialectical Behavior Therapy Skills Workbook for Anxiety.pdf', 'Anxiety', '2025-05-07 16:26:37'),
-(70, 'The DBT Skills Workbook For Teens - The Mentor Bucket', 'The DBT Skills Workbook For Teens - The Mentor Bucket.pdf', 'Anxiety', '2025-05-07 16:26:51'),
-(71, 'The Complete Idiots Guide to Controlling Anxiety', 'The Complete Idiots Guide to Controlling Anxiety.pdf', 'Anxiety', '2025-05-07 16:27:05'),
-(72, 'The Anxious Thoughts Workbook for Teens - David A Clark', 'The Anxious Thoughts Workbook for Teens - David A Clark.pdf', 'Anxiety', '2025-05-07 16:27:27'),
-(73, 'The Anxiety Workbook A 7-Week Plan to Overcome Anxiety, Stop Worrying, and End Panic', 'The Anxiety Workbook A 7-Week Plan to Overcome Anxiety, Stop Worrying, and End Panic.pdf', 'Anxiety', '2025-05-07 16:27:43'),
-(74, 'The Anxiety Survival Guide for Teens - CBT Skills to Overcome Fear, Worry, and Panic', 'The Anxiety Survival Guide for Teens - CBT Skills to Overcome Fear, Worry, and Panic.pdf', 'Anxiety', '2025-05-07 16:27:57'),
-(75, 'Social Anxiety - Ultimate Guide to Overcoming Fear, Shyness, and Social Phobia', 'Social Anxiety - Ultimate Guide to Overcoming Fear, Shyness, and Social Phobia.pdf', 'Anxiety', '2025-05-07 16:28:11'),
-(76, 'Sleep Through Insomnia - Brandon R Peters', 'Sleep Through Insomnia - Brandon R Peters.pdf', 'Anxiety', '2025-05-07 16:28:26'),
-(77, 'Rewire Your Anxious Brain - How to Use the Neuroscience of Fear to End Anxiety, Panic, and Worry', 'Rewire Your Anxious Brain - How to Use the Neuroscience of Fear to End Anxiety, Panic, and Worry.pdf', 'Anxiety', '2025-05-07 16:28:42'),
-(78, 'Relaxing Bedtime Stories - Visualiznation', 'Relaxing Bedtime Stories - Visualiznation.pdf', 'Anxiety', '2025-05-07 16:28:56'),
-(79, 'Overcoming Social Anxiety and Shyness - A Self-Help Guide Using Cognitive Behavioral Techniques', 'Overcoming Social Anxiety and Shyness - A Self-Help Guide Using Cognitive Behavioral Techniques.pdf', 'Anxiety', '2025-05-07 16:29:14'),
-(80, 'More Than Enough - Elaine Welteroth', 'More Than Enough - Elaine Welteroth.pdf', 'Anxiety', '2025-05-07 16:29:28'),
-(81, 'Mood, Anxiety and Personality', 'Mood, Anxiety and Personality.pdf', 'Anxiety', '2025-05-07 16:29:46'),
-(82, 'Live the Let-Go Life - Breaking Free from Stress, Worry, and Anxiety', 'Live the Let-Go Life - Breaking Free from Stress, Worry, and Anxiety.pdf', 'Anxiety', '2025-05-07 16:30:05'),
-(83, 'Killing Comparison - Nona Jones', 'Killing Comparison - Nona Jones.pdf', 'Anxiety', '2025-05-07 16:30:23'),
-(84, 'How to Be Yourself - Quiet Your Inner Critic and Rise Above Social Anxiety', 'How to Be Yourself - Quiet Your Inner Critic and Rise Above Social Anxiety.pdf', 'Anxiety', '2025-05-07 16:30:40'),
-(85, 'Handbook of depression and anxiety', 'Handbook of depression and anxiety.pdf', 'Anxiety', '2025-05-07 16:30:55'),
-(86, 'Goodbye Anxiety - Terri Bacow', 'Goodbye Anxiety - Terri Bacow.pdf', 'Anxiety', '2025-05-07 16:31:10'),
-(87, 'From Panic to Power - Proven Techniques to Calm Your Anxieties, Conquer Your Fears, and Put You in Control of Your Life', 'FROMPA~1.PDF', 'Anxiety', '2025-05-07 16:31:28'),
-(88, 'Free Yourself from Fears - Overcoming Anxiety and Living Without Worry', 'Free Yourself from Fears - Overcoming Anxiety and Living Without Worry.pdf', 'Anxiety', '2025-05-07 16:31:43'),
-(89, 'Free Yourself From Anxiety - A self-help guide to overcoming anxiety disorders', 'Free Yourself From Anxiety - A self-help guide to overcoming anxiety disorders.pdf', 'Anxiety', '2025-05-07 16:31:57'),
-(90, 'First, we make the beast beautiful - a new story about anxiety', 'First, we make the beast beautiful - a new story about anxiety.pdf', 'Anxiety', '2025-05-07 16:32:11'),
-(91, 'Edgar Cayce On Overcoming Fear And Anxiety', 'Edgar Cayce On Overcoming Fear And Anxiety.pdf', 'Anxiety', '2025-05-07 16:32:31'),
-(92, 'Dont Let Your Anxiety Run Your Life', 'Dont Let Your Anxiety Run Your Life.pdf', 'Anxiety', '2025-05-07 16:32:45'),
-(93, 'Declutter Your Mind - How to Stop Worrying, Relieve Anxiety, and Eliminate Negative Thinking', 'Declutter Your Mind - How to Stop Worrying, Relieve Anxiety, and Eliminate Negative Thinking.pdf', 'Anxiety', '2025-05-07 16:32:59'),
-(94, 'Coping Skills for Teens Workbook - Janine Halloran', 'Coping Skills for Teens Workbook - Janine Halloran.pdf', 'Anxiety', '2025-05-07 16:33:11'),
-(95, 'Controlling Anxiety - How to Master Fears and Phobias and Start Living With Confidence', 'Controlling Anxiety - How to Master Fears and Phobias and Start Living With Confidence.pdf', 'Anxiety', '2025-05-07 16:33:56'),
-(96, 'Breathwork - Andrew Smart', 'Breathwork - Andrew Smart.pdf', 'Anxiety', '2025-05-07 16:34:11'),
-(97, 'Awakening from anxiety - Connie Habash', 'Awakening from anxiety - Connie Habash.pdf', 'Anxiety', '2025-05-07 16:34:22'),
-(98, 'Anxiety Mastery - Your Guide To Overcoming Anxiety and Living Free From Fear, Panic and Worry', 'Anxiety Mastery - Your Guide To Overcoming Anxiety and Living Free From Fear, Panic and Worry.pdf', 'Anxiety', '2025-05-07 16:34:38'),
-(99, 'Anxiety and Personality - The Concept of a Directing Object and its Applications', 'Anxiety and Personality - The Concept of a Directing Object and its Applications.pdf', 'Anxiety', '2025-05-07 16:34:53'),
-(100, 'Anxiety and avoidance -  a universal treatment for anxiety, panic, and fear', 'Anxiety and avoidance -  a universal treatment for anxiety, panic, and fear.pdf', 'Anxiety', '2025-05-07 16:35:08'),
-(101, 'Anxiety & Depression Workbook for Dummies', 'Anxiety & Depression Workbook for Dummies.pdf', 'Anxiety', '2025-05-07 16:35:24'),
-(102, 'A guide to living with Anxiety', 'A guide to living with Anxiety.pdf', 'Anxiety', '2025-05-07 16:35:47'),
-(103, '100 Days of Gratitude - Olga Gibbs', '100 Days of Gratitude - Olga Gibbs.pdf', 'Anxiety', '2025-05-07 16:36:04'),
-(104, 'Enough Accept Yourself Just the Way You Are - Jana Pittman', 'Enough Accept Yourself Just the Way You Are - Jana Pittman.pdf', 'Depressed', '2025-05-07 16:38:36'),
-(105, 'You are enough a tale of healing and self-love - Vp Wright', 'You are enough a tale of healing and self-love - Vp Wright.pdf', 'Depressed', '2025-05-07 16:38:51'),
-(106, 'You Are Enough - Mandy Hale', 'You Are Enough - Mandy Hale.pdf', 'Depressed', '2025-05-07 16:39:07'),
-(107, 'Telling Yourself the Truth - Find Your Way Out of Depression, Anxiety, Fear, Anger', 'TELLIN~1.PDF', 'Depressed', '2025-05-07 16:40:01');
+(1, 'Book about happiness', 'Chapter 1&5-Firesafezone.docx', 'Anxiety', '2025-04-02 07:35:33'),
+(2, 'What to do when depressed', 'IM-IPT.pdf', 'Depressed', '2025-04-02 07:35:49'),
+(4, 'Foods to help you fight anxiety', 'TWO HEARTS.pdf', 'Anxiety', '2025-04-11 13:51:39');
 
 -- --------------------------------------------------------
 
@@ -436,8 +279,7 @@ CREATE TABLE `scores` (
 INSERT INTO `scores` (`id`, `code`, `users_id`, `score`, `date`) VALUES
 (9, '5798879275', 105, 40, '2025-03-21 21:43:23'),
 (10, '373501554', 105, 50, '2025-03-21 21:44:25'),
-(11, '3712162067', 105, 30, '2025-04-30 11:44:31'),
-(12, '9219793272', 105, 20, '2025-05-08 02:46:07');
+(11, '3712162067', 105, 30, '2025-04-30 11:44:31');
 
 -- --------------------------------------------------------
 
@@ -467,14 +309,7 @@ INSERT INTO `take_students` (`id`, `code`, `users_id`, `questionnaires_id`, `ans
 (174, '3712162067', 105, 34, 'Carbon dioxide'),
 (175, '3712162067', 105, 40, 'Japan'),
 (176, '3712162067', 105, 39, 'Hydrogen'),
-(177, '3712162067', 105, 26, 'Giraffe'),
-(178, '9219793272', 105, 22, 'Almost every night'),
-(179, '9219793272', 105, 23, 'Rarely'),
-(180, '9219793272', 105, 27, 'Almost everyday'),
-(181, '9219793272', 105, 29, 'Occasionally'),
-(182, '9219793272', 105, 25, 'Not at all'),
-(183, '9219793272', 105, 28, 'Sometimes'),
-(184, '9219793272', 105, 21, 'Not at all');
+(177, '3712162067', 105, 26, 'Giraffe');
 
 -- --------------------------------------------------------
 
@@ -507,11 +342,11 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `img`, `firstname`, `lastname`, `middlename`, `phone_number`, `age`, `gender`, `email`, `password`, `passwordtxt`, `contact`, `address`, `code`, `type`, `datetake`, `totaltake`) VALUES
-(1, 'Barbecued-snags.jpg', 'admin', 'admin', '', '', '', '', 'admin@gmail.com', '$2y$10$Y8h1jxlcFHSxFtyjvXB5z.qtIhxWAYqdb5zfHQsiNYAgRci7tpkCu', '123', '0', '', 22198, 2, '2025-05-08', 0),
-(105, 'blank_profile.png', 'student1', 'student1', 'ttest', '9878676675', '33', 'Male', 's1@gmail.com', '$2y$10$Y8h1jxlcFHSxFtyjvXB5z.qtIhxWAYqdb5zfHQsiNYAgRci7tpkCu', '123', '', '', 0, 0, '2025-05-08', 1),
-(106, 'blank_profile.png', 'student2', 'student2', 'sorar', '', '', '', 's2@gmail.com', '$2y$10$Y8h1jxlcFHSxFtyjvXB5z.qtIhxWAYqdb5zfHQsiNYAgRci7tpkCu', '123', '', '', 0, 0, '2025-05-08', 0),
-(108, 'blank_profile.png', 'Guidance', 'Faculty', '', '', '', '', 'f1@gmail.com', '$2y$10$y86IYywbdcKhqW7q0SLLV.rNavSZMgN/.defMImpPpZYEYfJk/TKq', '123', '', '', 0, 1, '2025-05-08', 0),
-(110, '', 'student3', 'student3', 'sdfsdf', '09999999', '34', 'Male', 's3@gmail.com', '$2y$10$N3gMznlDluBoCQnGHX.xIepemS8AQwAkEg4Gwg1V26NMYrP.xDWa6', '123', '', '', 0, 0, '2025-05-08', 0);
+(1, 'Barbecued-snags.jpg', 'godeg test', 'kola', '', '', '', '', 'admin@admin.com', '$2y$10$PI0nCdoRms.MjY7epPZVqu67pbH0cyACqwnl3ZGx9qox0R23no0gG', 'admin', '0', '', 22198, 2, '2025-04-30', 0),
+(105, 'blank_profile.png', 'Max', 'Marquez', 'ttest', '9878676675', '33', 'Male', 'Maxmarquez123@aup.edu.ph', '$2y$10$IeJ4y2.eNwa4p3UMZu3blOOodVKFxz2zeHfrBv0goCavl.jFm4mzW', '111', '', '', 0, 0, '2025-04-30', 1),
+(106, 'blank_profile.png', 'sorar', 'sorar', 'sorar', '', '', '', 'sorar384@gmail.com', '$2y$10$Y8h1jxlcFHSxFtyjvXB5z.qtIhxWAYqdb5zfHQsiNYAgRci7tpkCu', '123', '', '', 0, 0, '2025-04-30', 0),
+(108, 'blank_profile.png', 'Guidance', 'Faculty', '', '', '', '', 'faculty2@email.com', '$2y$10$y86IYywbdcKhqW7q0SLLV.rNavSZMgN/.defMImpPpZYEYfJk/TKq', '123', '', '', 0, 1, '2025-04-30', 0),
+(110, '', 'test', 'sdfdsf', 'sdfsdf', '09999999', '34', 'Male', 'test@gmail.com', '$2y$10$N3gMznlDluBoCQnGHX.xIepemS8AQwAkEg4Gwg1V26NMYrP.xDWa6', '123', '', '', 0, 0, '2025-04-30', 0);
 
 -- --------------------------------------------------------
 
@@ -779,7 +614,7 @@ ALTER TABLE `video`
 -- AUTO_INCREMENT for table `audio`
 --
 ALTER TABLE `audio`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=67;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
 --
 -- AUTO_INCREMENT for table `bookmark_audio`
@@ -827,7 +662,7 @@ ALTER TABLE `questionnaires`
 -- AUTO_INCREMENT for table `readables`
 --
 ALTER TABLE `readables`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=108;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
 --
 -- AUTO_INCREMENT for table `schedule`
@@ -839,13 +674,13 @@ ALTER TABLE `schedule`
 -- AUTO_INCREMENT for table `scores`
 --
 ALTER TABLE `scores`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
 
 --
 -- AUTO_INCREMENT for table `take_students`
 --
 ALTER TABLE `take_students`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=185;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=178;
 
 --
 -- AUTO_INCREMENT for table `users`
